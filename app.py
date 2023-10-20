@@ -18,8 +18,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import gspread
-from pathlib import Path
+#import gspread
+#from pathlib import Path
 import matplotlib.pyplot as plt
 
 #REMOTE_DATABASE_URL = 'https://docs.google.com/spreadsheets/d/1FgGdpDp5uR22m-37YVRNk4FWufgAQS1NYAYKwUnMdUk/edit#gid=1034852951'
